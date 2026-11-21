@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-![WandaVision Poster](https://upload.wikimedia.org/wikipedia/en/6/68/WandaVision_logo.png)
+![[WandaVision Poster](https://upload.wikimedia.org/wikipedia/en/6/68/WandaVision_logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HLbFeiNvsvHqV8CCr7TlwWjJAgtlwBTh2xku2VUb6HBFZ9T5ktGeF0SMehmjH-SZ3DZqWw&s=10))
 
 ## WandaVision
 > "What is grief, if not love persevering?"
