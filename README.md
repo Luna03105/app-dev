@@ -1,39 +1,37 @@
 # app-dev
 My first repository
 
-![[WandaVision Poster](https://upload.wikimedia.org/wikipedia/en/6/68/WandaVision_logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HLbFeiNvsvHqV8CCr7TlwWjJAgtlwBTh2xku2VUb6HBFZ9T5ktGeF0SMehmjH-SZ3DZqWw&s=10))
+<img width="1920" height="1080" alt="tvfest-2025-Agatha-All-Along-v2" src="https://github.com/user-attachments/assets/237df189-2fe3-47cf-865e-dab016886c99" />
 
-## WandaVision
-> "What is grief, if not love persevering?"
+## Agatha All Along
+> "Down, down, down the road, down the Witches' Road."
 
-**WandaVision** is a Marvel television miniseries created by Jac Schaeffer for the streaming service Disney+, based on the Marvel Comics characters Wanda Maximoff / Scarlet Witch and Vision. It is the first television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios.
+**Agatha All Along** is a Marvel television miniseries created by Jac Schaeffer for Disney+. It is a spin-off of *WandaVision* and the second installment in the MCU's "WandaVision trilogy."
 
 ## Key Information
-* **Genre:** Science fiction, fantasy, mystery, drama, comedy, and action
+* **Genre:** Mystery, Musical, Comedy
 * **Created by:** Jac Schaeffer
 * **Universe:** Marvel Cinematic Universe (MCU)
 * **Platform:** Disney+
 * **Episodes:** 9
 
 ## Main Characters
-1. **Wanda Maximoff (Scarlet Witch)** *played by Elizabeth Olsen* - An Avenger who can harness chaos magic and alter reality. To cope with her immense grief, she creates a fake reality in Westview known as "the Hex" to live in with Vision.
-2. **Vision** *played by Paul Bettany* - A synthezoid and Avenger. Within the Hex, Wanda creates a new version of Vision to live out her fantasy, while his original body remains in S.W.O.R.D. custody.
-3. **Billy Maximoff (Wiccan)** *played by Julian Hilliard* - Wanda and Vision's twin son, who possesses reality-warping powers similar to his mother.
-4. **Tommy Maximoff (Speed)** *played by Jett Klyne* - Wanda and Vision's other twin son, who possesses super-speed abilities.
+1. **Agatha Harkness** *played by Kathryn Hahn* - A powerful, centuries-old witch who was trapped in a sitcom illusion by Wanda. She must regain her powers and face her past.
+2. **Teen / Billy Maximoff (Wiccan)** *played by Joe Locke* - A mysterious young man with a magical familiar who seeks to walk the Witches' Road and discover his true identity.
+3. **Rio Vidal (Death)** *played by Aubrey Plaza* - A dangerous, green-fingered witch with a complicated and dark romantic history with Agatha.
 
 ## Supporting Characters
-1. **Agatha Harkness** *played by Kathryn Hahn* - A powerful, centuries-old witch who poses as Wanda's nosy neighbor "Agnes" while secretly investigating Wanda's magic.
-2. **Monica Rambeau** *played by Teyonah Parris* - An agent of S.W.O.R.D. who gets trapped inside the Hex. After passing through the barrier multiple times, her cells are rewritten, granting her the ability to absorb kinetic energy and see energy fields.
-3. **Jimmy Woo** *played by Randall Park* - An FBI agent who specializes in investigating missing persons and assists S.W.O.R.D. from the outside.
-4. **Darcy Lewis** *played by Kat Dennings* - A scientist and former intern of Jane Foster who helps analyze the Hex and its broadcast signal.
-5. **Director Tyler Hayward** *played by Josh Stamberg* - Director of S.W.O.R.D. who views Wanda as a terrorist threat and seeks to weaponize Vision's original body.
+1. **Lilia Calderu** *played by Patti LuPone* - A 450-year-old Sicilian witch whose power is divination.
+2. **Jennifer Kale** *played by Sasheer Zamata* - A potion-making witch and a social media influencer.
+3. **Alice Wu-Gulliver** *played by Ali Ahn* - A protection witch with a tragic family legacy.
+4. **Sharon Davis** *played by Debra Jo Rupp* - A Westview resident who gets accidentally dragged into the chaos of the Witches' Road.
 
 ## Quick Overview
 
-| Category | Rating/Details |
+| Category | Details |
 | :--- | :--- |
-| **Lead Actress** | Elizabeth Olsen |
-| **Vibe** | Retro, mysterious, and emotionally devastating |
-| **My Score** | 10 / 10 |
+| **Lead Actress** | Kathryn Hahn |
+| **Genre** | Mystery, Musical, Comedy |
+| **Rating** | 10 / 10 |
 
-Visit the [Official Marvel Website](https://www.marvel.com/) for more updates.
+Visit the [Official Marvel Website](https://www.marvel.com/tv-shows/agatha-all-along/1) for more updates.
