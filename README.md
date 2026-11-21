@@ -1,6 +1,7 @@
 # app-dev
 My first repository
-( <img width="455" height="674" alt="images" src="https://github.com/user-attachments/assets/e8538e3d-6114-49aa-9147-b6518ce6f2dc" /> )
+
+ <img width="455" height="674" alt="images" src="https://github.com/user-attachments/assets/e8538e3d-6114-49aa-9147-b6518ce6f2dc" /> 
 
 ## WandaVision
 > "What is grief, if not love persevering?"
